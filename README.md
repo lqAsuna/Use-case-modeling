@@ -20,6 +20,26 @@
 
 ## 业务建模
 
+### a.在（任务b）基础上，用活动图建模找酒店用例。简述利用流程图发现子用例的方法。
+
+![image](https://github.com/lqAsuna/Use-case-modeling/blob/master/image/result4.png)
+
+![image](https://github.com/lqAsuna/Use-case-modeling/blob/master/image/result5.png)
+
+全部：
+
+![image](https://github.com/lqAsuna/Use-case-modeling/blob/master/image/result6.png)
+
+#### 以下情况可以帮助我们发现子用例：
+- 流程图中能进一步抽象起来的某几个步骤可以作为一个子用例
+- 某些步骤是一个循环的情况
+- 某一步骤很明显是一个独立的子用例的情况
+
+### b.选择你身边的银行 ATM，用活动图描绘取款业务流程
+
+![image](https://github.com/lqAsuna/Use-case-modeling/blob/master/image/result7.png)
+
+
 ## 用例文本编写
 - 摘要：简洁的一段式概要，通常用于主成功场景，在早期需求分析中为快速了解主题和范围而使用。 
 
