@@ -38,7 +38,12 @@
 ### b.选择你身边的银行 ATM，用活动图描绘取款业务流程
 
 ![image](https://github.com/lqAsuna/Use-case-modeling/blob/master/image/result7.png)
+ 
+### c.查找淘宝退货业务官方文档，使用多泳道图，表达客户、淘宝网、淘宝商家服务系统、商家等用户和系统协同完成退货业务的过程。分析客户要完成退货业务，在淘宝网上需要实现哪些系统用例。
 
+![image](https://github.com/lqAsuna/Use-case-modeling/blob/master/image/result8.png)
+ 
+淘宝网需要实现生成退款订单、修改订单信息、提供卖家信息、同意\拒绝退货处理的用例
 
 ## 用例文本编写
 - 摘要：简洁的一段式概要，通常用于主成功场景，在早期需求分析中为快速了解主题和范围而使用。 
